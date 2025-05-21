@@ -12,7 +12,7 @@ designation: MS in Integrated Marketing Communications
 # your company information
 company:
   name: Northwestern University.
-  url: "https://www.example.com"
+  url: "https://www.medill.northwestern.edu/imc/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
