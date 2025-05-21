@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: MS in Integrated Marketing
+designation: MS in Integrated Marketing Communications
 # your company information
 company:
   name: Northwestern University.
