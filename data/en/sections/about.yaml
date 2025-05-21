@@ -19,8 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a data analyst specializing in marketing analytics and strategic storytelling. With experience across marketing analytics, strategy consulting, and marketing research, I bring a unique blend of business insight and data-driven thinking to drive impactful decisions.'
-
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
