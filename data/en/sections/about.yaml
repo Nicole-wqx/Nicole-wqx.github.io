@@ -25,11 +25,11 @@ summary: 'I am a data analyst specializing in marketing analytics and strategic 
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "qingxuanwang2026@u.northwestern.edu"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/Nicole-wqx"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -37,11 +37,11 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/nicole-wang-872247296/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/nicole_x_wqx?igsh=b285aTV3NGk4bXp2&utm_source=qr"
 
 - name: Facebook
   icon: "fab fa-facebook"
