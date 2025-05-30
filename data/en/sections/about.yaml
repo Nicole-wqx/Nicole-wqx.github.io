@@ -64,7 +64,7 @@ badges:
 - type: certification
   name: Certified Data Analyst
   url: "https://www.coursera.org/account/accomplishments/professional-cert/certificate/GORFWL4PMCJQ"
-  badge: "assets/images/author/google.png"
+  badge: "images/author/google.png"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
@@ -77,18 +77,18 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: Logical Thinking
+  percentage: 90
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Creativity
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Interpersoanl Communication
+  percentage: 90
   color: orange
 
 # you can also provide color code instead of the color name
