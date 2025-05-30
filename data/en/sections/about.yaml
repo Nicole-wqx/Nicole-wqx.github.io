@@ -64,7 +64,7 @@ badges:
 - type: certification
   name: Certified Data Analyst
   url: "https://www.coursera.org/account/accomplishments/professional-cert/certificate/GORFWL4PMCJQ"
-  badge: /static/images/google.png
+  badge: /images/sections/about/google.png
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
