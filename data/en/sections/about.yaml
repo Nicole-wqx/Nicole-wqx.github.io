@@ -72,9 +72,9 @@ badges:
   badge: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~data-analysis-with-python/XDP~COURSE!~data-analysis-with-python.jpeg"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Data Manipulation with SQL
+  url: "https://www.datacamp.com/statement-of-accomplishment/course/f63a729d8ccd5bb5bc879c9c84f9599bbf9af926?raw=1"
+  badge: "https://media.licdn.com/dms/image/sync/v2/D4D27AQGu8Ncnd55b-g/articleshare-shrink_800/articleshare-shrink_800/0/1739393789644?e=2147483647&v=beta&t=yb_7rx6xzRWyKckTGI55lGjA_i1lZC6yjEZhfB9q98M"
 
 - type: soft-skill-indicator
   name: Logical Thinking
