@@ -67,9 +67,9 @@ badges:
   badge: "https://www.constructionplacements.com/wp-content/uploads/2021/06/Data-Analytics-Professional-Certificate-Course-by-Google.jpg"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Data Analysis with Python
+  url: "/static/files/python.pdf"
+  badge: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~data-analysis-with-python/XDP~COURSE!~data-analysis-with-python.jpeg"
 
 - type: certification
   name: Artificial Intelligence and Machine Learning
