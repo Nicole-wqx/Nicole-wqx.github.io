@@ -68,7 +68,7 @@ badges:
 
 - type: certification
   name: Data Analysis with Python
-  url: "/static/files/python.pdf"
+  url: "/files/python.pdf"
   badge: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~data-analysis-with-python/XDP~COURSE!~data-analysis-with-python.jpeg"
 
 - type: certification
