@@ -56,7 +56,7 @@ skills:
 - name: Tableau
   logo: /images/sections/skills/tableau.png
   summary: "Capable of data visualization and data analysis using Tableau."
-  categories: ["data","creativity"]
+  categories: ["data","creativity","marketing"]
 
 - name: Google Analytics
   logo: /images/sections/skills/google.png
