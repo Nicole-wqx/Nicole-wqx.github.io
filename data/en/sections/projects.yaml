@@ -21,17 +21,18 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
+- name: What Makes a Video Viral?
+  logo: /images/sections/projects/tiktok.png
+  image: /images/sections/projects/viral.png
+  role: Teamwork
+  timeline: "Class Project"
   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
+  summary: Used XGBoost and random forest to find the key drivers of a viral TikTok video.
   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: Key Features of Popular Restaurants on Yelp 
+  logo: /images/sections/projects/yelp.png
   role: Developer
   timeline: "Jun 2018 - Present"
   repo: https://github.com/tensorflow/tensorflow
@@ -39,15 +40,16 @@ projects:
   summary: An Open Source Machine Learning Framework for Everyone.
   tags: ["professional", "machine-learning"]
 
-- name: A sample academic paper
-  role: Team Lead
+- name: Digital Satisfaction Index
+  logo: /images/sections/projects/dsi.png
+  role: Assistant Research Analyst
   timeline: "Jan 2017 - Nov 2017"
   url: "https://www.example.com"
   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
   tags: ["academic","iot"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
+- name: Online Grocery Data Analysis
+  logo: /images/sections/projects/grocery.png
   role: Nothing
   timeline: "Oct 2019 - Dec 2019"
   repo: https://github.com/kelseyhightower/nocode
