@@ -60,6 +60,6 @@ projects:
   image: /images/sections/projects/anipang.png
   role: Teamwork
   timeline: "Class Project"
-  repo: https://www.canva.com/design/DAGpanOZWHQ/34MbLalUkmNG-8wiFjtaXw/edit?utm_content=DAGpanOZWHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  url: "https://www.canva.com/design/DAGpanOZWHQ/34MbLalUkmNG-8wiFjtaXw/edit?utm_content=DAGpanOZWHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
   summary: A Panel DID Study on How Gaming App Adoption Influences Social Media Usage.
   tags: ["hobby","hugo","theme","professional"]
