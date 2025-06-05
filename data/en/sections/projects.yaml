@@ -24,7 +24,7 @@ projects:
   image: /images/sections/projects/viral.png
   role: Teamwork
   timeline: "Class Project"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Used XGBoost and random forest to find the key drivers of a viral TikTok video.
   tags: ["class", "machine-learning"]
@@ -34,7 +34,7 @@ projects:
   image: /images/sections/projects/restaurant.png
   role: Developer
   timeline: "Class Project"
-  repo: https://github.com/tensorflow/tensorflow
+  url: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: Found the features that can predict a popular (5-star rating) restaurant on Yelp using XGBoost and Smoothers. 
   tags: ["class", "machine-learning"]
@@ -53,7 +53,7 @@ projects:
   image: /images/sections/projects/online.png
   role: Developer
   timeline: "Class Project"
-  repo: https://github.com/kelseyhightower/nocode
+  url: https://github.com/kelseyhightower/nocode
   #url: ""
   summary: A CRM data analysis to find the most profitable customer segments by evaluating purchasing behavior, lifetime value, and engagement metrics.
   tags: ["class", "fun"]
