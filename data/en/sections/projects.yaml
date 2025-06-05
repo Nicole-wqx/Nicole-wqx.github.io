@@ -31,8 +31,9 @@ projects:
   summary: Used XGBoost and random forest to find the key drivers of a viral TikTok video.
   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Key Features of Popular Restaurants on Yelp 
+- name: Popular Restaurants on Yelp 
   logo: /images/sections/projects/yelp.png
+  image: /images/sections/projects/restaurant.png
   role: Developer
   timeline: "Jun 2018 - Present"
   repo: https://github.com/tensorflow/tensorflow
