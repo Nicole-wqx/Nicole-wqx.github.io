@@ -36,7 +36,7 @@ projects:
   timeline: "Class Project"
   url: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: Found the features that can predict a popular (5-star rating) restaurant on Yelp using XGBoost and Smoothers. 
+  summary: Found the features that can predict restaurant's open status on Yelp using Logistic Regression. 
   tags: ["class", "machine-learning"]
 
 - name: Digital Satisfaction Index
