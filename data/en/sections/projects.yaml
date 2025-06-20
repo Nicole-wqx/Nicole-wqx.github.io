@@ -34,9 +34,9 @@ projects:
   image: /images/sections/projects/restaurant.png
   role: Developer
   timeline: "Class Project"
-  url: https://github.com/tensorflow/tensorflow
+  url: https://github.com/Nicole-wqx/Yelp-Restaurants
   #url: ""
-  summary: Found the features that can predict restaurant's open status on Yelp using Logistic Regression. 
+  summary: Found the features that can predict a popular restaurant's open status on Yelp using Logistic Regression. 
   tags: ["class", "machine-learning"]
 
 - name: Digital Satisfaction Index
