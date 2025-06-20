@@ -45,7 +45,7 @@ projects:
   role: Assistant Research Analyst
   timeline: "Market Research"
   url: "https://www.example.com"
-  summary: This market research project aims to measure the Digital Satisfaction Index (DSI) among U.S. internet users and analyze differences across key demographic groups. In addition, the study explores long-term trends in DSI and levels news trust over the past decade.
+  summary: This market research project aims to measure the Digital Satisfaction Index (DSI) among U.S. internet users and analyze differences across key demographic groups. In addition, the study explores long-term trends in DSI and news trust levels over the past decade.
   tags: ["professional"]
 
 - name: Online Grocery Data Analysis
@@ -53,9 +53,9 @@ projects:
   image: /images/sections/projects/online.png
   role: Developer
   timeline: "Class Project"
-  url: https://github.com/kelseyhightower/nocode
+  url: https://github.com/Nicole-wqx/Online-Grocery-Data
   #url: ""
-  summary: A CRM data analysis to find the most profitable customer segments by evaluating purchasing behavior, lifetime value, and engagement metrics.
+  summary: A CRM data analysis using SQL to find the most profitable customer segments by evaluating purchasing behavior, lifetime value, and engagement metrics.
   tags: ["class", "fun"]
 
 - name: From Games to Chats
