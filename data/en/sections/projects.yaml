@@ -53,7 +53,7 @@ projects:
   image: /images/sections/projects/online.png
   role: Developer
   timeline: "Class Project"
-  url: https://github.com/Nicole-wqx/Online-Grocery-Data
+  url: https://www.canva.com/design/DAGrXmpc6W0/ZL4Ij7q5GLKMzARjOpYuow/edit?utm_content=DAGrXmpc6W0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   #url: ""
   summary: A CRM data analysis using SQL to find the most profitable customer segments by evaluating purchasing behavior, lifetime value, and engagement metrics.
   tags: ["class", "fun"]
