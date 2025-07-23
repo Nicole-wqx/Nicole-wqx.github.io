@@ -19,11 +19,21 @@ buttons:
 
 # your projects
 projects:
+- name: Insurance Coverage Among Young Adults in US Cities
+  logo: /images/sections/projects/ins.png
+  image: /images/sections/projects/tableau.png
+  role: Developer
+  timeline: "Insurance Industry"
+  url: https://public.tableau.com/app/profile/qingxuan.wang/viz/InsuranceCoverageAmongYoungAdultsinUSCities/Dashboard1?publish=yes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The project visualizes the insurance coverage among young adults and other indicators of a city's market potential in US cities using Tableau. 
+  tags: ["professional", "machine-learning"]
+
 - name: What Makes a Video Viral?
   logo: /images/sections/projects/tiktok.png
   image: /images/sections/projects/viral.png
   role: Teamwork
-  timeline: "Class Project"
+  timeline: "Social Media"
   url: https://github.com/Nicole-wqx/TikTok-Viral-Videos # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Used XGBoost and Random Forest Models to find the key drivers of a viral TikTok video.
@@ -33,7 +43,7 @@ projects:
   logo: /images/sections/projects/yelp.png
   image: /images/sections/projects/restaurant.png
   role: Developer
-  timeline: "Class Project"
+  timeline: "Social Media"
   url: https://github.com/Nicole-wqx/Yelp-Restaurants
   #url: ""
   summary: Found the features that can predict a popular restaurant's open status on Yelp using Logistic Regression. 
@@ -52,7 +62,7 @@ projects:
   logo: /images/sections/projects/grocery.png
   image: /images/sections/projects/online.png
   role: Developer
-  timeline: "Class Project"
+  timeline: "Sales Data"
   url: https://github.com/Nicole-wqx/Online-Grocery-Data
   summary: A CRM data analysis using SQL to find the most profitable customer segments by evaluating purchasing behavior.
   tags: ["class", "fun"]
@@ -61,7 +71,7 @@ projects:
   logo: /images/sections/projects/kakao.png
   image: /images/sections/projects/anipang.png
   role: Teamwork
-  timeline: "Class Project"
+  timeline: "Social Media"
   url: "https://github.com/Nicole-wqx/Kakao-From-Games-to-Chats"
   summary: A Panel DID Study on How Gaming App Adoption Influences Social Media Usage.
   tags: ["class"]
